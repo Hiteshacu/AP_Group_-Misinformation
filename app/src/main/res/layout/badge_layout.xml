@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/badge_background"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:background="@drawable/badge_background"
+    android:contentDescription="@string/warning_badge">
+
+    <ImageView
+        android:id="@+id/badge_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_warning"
+        android:contentDescription="@string/warning_badge"
+        android:tint="@android:color/white" />
+
+</FrameLayout>

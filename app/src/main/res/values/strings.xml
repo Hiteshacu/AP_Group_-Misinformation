@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Misinfo Detector</string>
+    <string name="notification_permission">Notification Access</string>
+    <string name="accessibility_permission">Accessibility Service</string>
+    <string name="overlay_permission">Overlay Permission</string>
+    <string name="enable">Enable</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="app_ready">All permissions granted. App is ready!</string>
+    <string name="warning_badge">Warning badge</string>
+    <string name="accessibility_service_description">Detects misinformation in Telegram and WhatsApp messages and displays warning badges</string>
+    <string name="fact_check_title">Fact Check Result</string>
+    <string name="original_message">Original Message</string>
+    <string name="explanation">Explanation</string>
+    <string name="sources">Sources</string>
+    <string name="app_description">Detects misinformation in Telegram and WhatsApp messages and displays warning badges</string>
+    <string name="permissions_required">Permissions Required</string>
+    <string name="enable_all_permissions">Please enable all permissions to use the app</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="monitoring_status">Monitoring Status</string>
+    <string name="monitoring_active">✓ Monitoring Active - Checking messages</string>
+    <string name="monitoring_stopped">✗ Monitoring Stopped</string>
+    <string name="messages_checked">Messages checked: %d</string>
+</resources>
